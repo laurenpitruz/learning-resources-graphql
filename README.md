@@ -12,5 +12,7 @@
 ## Apollo
 [**Code-along Tutorial**](https://www.apollographql.com/docs/tutorial/introduction/)
 
+[**Apollo + TS**](https://www.apollographql.com/docs/react/development-testing/static-typing/)
+
 ## Video
 [**How To GraphQL Video**](https://www.howtographql.com/basics/0-introduction/)
