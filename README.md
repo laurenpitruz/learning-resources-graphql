@@ -5,6 +5,8 @@
 
 [**GraphQL Concepts Visualized**](https://www.apollographql.com/blog/the-concepts-of-graphql-bc68bd819be3/)
 
+[**Apollo Cache In Memory**](https://www.npmjs.com/package/apollo-cache-inmemory)
+
 ## Apollo
 [**Code-along Tutorial**](https://www.apollographql.com/docs/tutorial/introduction/)
 
